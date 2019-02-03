@@ -1,0 +1,21 @@
+ 
+
+last pid:  3873;  load averages:  1.35,  0.95,  0.49                                            up 0+22:42:02  14:34:46
+37 processes:  1 running, 36 sleeping
+CPU:  0.2% user,  0.0% nice,  0.4% system,  0.2% interrupt, 99.3% idle
+Mem: 229M Active, 522M Inact, 17M Laundry, 112M Wired, 36M Buf, 20M Free
+Swap: 
+
+  PID USERNAME    THR PRI NICE   SIZE    RES STATE    C   TIME    WCPU COMMAND
+ 3840 root          1  52    0    81M    22M biord    2   3:50  54.59% rsync
+ 3842 root          1  52    0    80M    13M select   0   3:06  43.36% rsync
+
+  
+  what about the cpu usage??
+  
+  
+rsync-3.1.3.tar.gz	2018-01-28 23:54	885K	 
+
+
+
+

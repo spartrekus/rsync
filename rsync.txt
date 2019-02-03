@@ -14,6 +14,18 @@ Swap:
   what about the cpu usage??
   
   
+  last pid:  4115;  load averages:  0.59,  1.39,  1.40                                                                                                    up 0+23:06:35  14:59:19
+40 processes:  3 running, 37 sleeping
+CPU: 12.8% user,  0.0% nice, 16.1% system,  3.0% interrupt, 68.0% idle
+Mem: 92M Active, 491M Inact, 12M Laundry, 120M Wired, 43M Buf, 182M Free
+Swap: 
+   
+  PID USERNAME    THR PRI NICE   SIZE    RES STATE    C   TIME    WCPU COMMAND
+ 4113 root       1  85    0    23M  3224K CPU1     1   0:10  35.88% sshd
+ 4109 root          1  84    0    18M  6952K CPU3     3   0:10  35.49% ssh
+
+  
+  
 rsync-3.1.3.tar.gz	2018-01-28 23:54	885K	 
 
 

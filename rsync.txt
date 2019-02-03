@@ -10,6 +10,8 @@ Swap:
  3840 root          1  52    0    81M    22M biord    2   3:50  54.59% rsync
  3842 root          1  52    0    80M    13M select   0   3:06  43.36% rsync
 
+ncp without buffer versus rsync : 
+holds 6 min diff for a 2GB file.
   
   what about the cpu usage??
   
